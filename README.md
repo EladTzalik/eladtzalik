@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm Elad Tzalik, a Math & CS PH.D student @ WIS. My main interests are discrete math and theoretical computer science.
 
 <!--
 **EladTzalik/eladtzalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
